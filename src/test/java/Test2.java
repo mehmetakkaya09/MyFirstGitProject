@@ -8,6 +8,10 @@ public class Test2 {
 
         System.out.println("4. Test habe ich auch geschrieben");
 
-        System.out.println("Fehlerhafte Kode wurde geschrieben");
+
+        //System.out.println("Fehlerhafte Kode wurde geschrieben");
+
+        System.out.println("5. Test wurde geschrieben");
+
     }
 }
