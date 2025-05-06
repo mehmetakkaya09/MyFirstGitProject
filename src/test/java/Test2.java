@@ -4,6 +4,6 @@ public class Test2 {
 
         System.out.println("2. Test wurde geschrieben");
 
-
+        System.out.println("3. Test wurde geschrieben");
     }
 }
