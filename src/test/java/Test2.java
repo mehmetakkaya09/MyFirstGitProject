@@ -7,5 +7,7 @@ public class Test2 {
         System.out.println("3. Test wurde geschrieben aber es gab falsche Kode deswegen habe ich das korrigiert.");
 
         System.out.println("4. Test habe ich auch geschrieben");
+
+        System.out.println("Fehlerhafte Kode wurde geschrieben");
     }
 }
